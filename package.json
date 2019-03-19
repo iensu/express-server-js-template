@@ -12,7 +12,7 @@
     "test:dev": "env-cmd .env.test mocha --require 'test/test-setub.js' 'test/**/*.test.js' --watch"
   },
   "author": "Jens Östlund",
-  "license": "Apache-2.0",
+  "license": "MIT",
   "devDependencies": {
     "chai": "^4.2.0",
     "env-cmd": "^8.0.2",
