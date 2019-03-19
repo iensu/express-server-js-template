@@ -16,6 +16,27 @@ A simple Express server template which comes with the following features:
   * `test` - Run tests and linter
   * `test:dev` - Run tests and watch for code changes
 
+## How to use
+
+1. Clone the project:
+   ```bash
+   $ git clone https://github.com/iensu/express-server-js-template my-project-name
+   ```
+1. Remove the Git history:
+   ```bash
+   $ cd my-project-name
+   $ rm -rf .git
+   ```
+1. Re-initialize git:
+   ```bash
+   $ git init
+   ```
+1. Update the project `name` field in [package.json](./package.json), [package-lock.json](./package-lock.json) and change the `author` field.
+1. Make an initial commit
+   ```bash
+   $ git commit -am "Initial commit"
+   ```
+
 ## Acknowledgements
 
 This project is a grateful recipient of the
