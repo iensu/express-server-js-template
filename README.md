@@ -15,3 +15,8 @@ A simple Express server template which comes with the following features:
   * `start:dev` - Start a server watching for code changes
   * `test` - Run tests and linter
   * `test:dev` - Run tests and watch for code changes
+
+## Acknowledgements
+
+This project is a grateful recipient of the
+[Futurice Open Source sponsorship program](http://futurice.com/blog/sponsoring-free-time-open-source-activities).
